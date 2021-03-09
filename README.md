@@ -2,7 +2,7 @@
 
 ## Data Modeling
 
-ERD sketch with: http://www.quickdatabasediagrams.com.
+Entity Relationship Diagram (ERD) sketch with: http://www.quickdatabasediagrams.com.
 
 ## Data Engineering
 
